@@ -2,8 +2,7 @@
 - 👀 I’m interested in Software development.
 - 🌱 I have diploma in computer programming and I’m currently learning IBM fullstack software engineering alongside BCA with specialization in Software Engineering
 - 💞️ I’m open to gain experience in software development by doing projects and solving problems.
-- 📫 How to reach me 
-- 😄 Pronouns: ...
+- 📫 How to reach me: Prabhjotsinghbhullar19@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
